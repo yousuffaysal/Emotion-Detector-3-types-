@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+dataset/
+model.h5
